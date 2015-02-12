@@ -3,7 +3,7 @@
 # app for correlation
 
 library(MASS)
-library(ggplot)
+library(ggplot2)
 
 shinyServer(
      function(input, output) {    
